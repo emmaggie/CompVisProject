@@ -15,7 +15,7 @@ In the case of neural networks, both above mentioned features and actual images 
 
 **Data:**
 1. Set of CSV files from automated image processing pipeline: several indepenedently acquired data sets. Approximately 30 0000 examples in total. Structures of interest with 200-1000+ features.
-                                                                                                                                                                        
+
 2. Actual images: still need to have dimensions reduced. Requires some changes in the pipeline.
                                                                                                                                                                                 
 
