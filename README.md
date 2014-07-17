@@ -20,5 +20,10 @@ In the case of neural networks, both above mentioned features and actual images 
 
 2. Actual images: still need to have dimensions reduced. Requires some changes in the pipeline.
 
-                                                                                                                                                                                
+
+**Steps**
+
+1. Scale and normalize data. Binarize categorical variables.
+2. Evaluate above techniques (including: feature selection, cross-calidation for hyperparameters, dimensionality reduction if working on images directly).
+                                                                                                                                                                            
 
