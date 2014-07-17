@@ -29,3 +29,8 @@ In the case of neural networks, both above mentioned features and actual images 
 **Output**
 
 On top of the classification and metrics, output **most siginificant features** when possible (hypothesis generator).
+
+**Final analysis**
+
+For statistical evaluation model prior using all examples (pooled experiments) and posterior by updating prior with counts per sample (see: CA and Doing Bayesian...).
+
