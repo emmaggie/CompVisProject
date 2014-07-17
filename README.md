@@ -26,4 +26,6 @@ In the case of neural networks, both above mentioned features and actual images 
 1. Scale and normalize data. Binarize categorical variables.
 2. Evaluate above techniques (including: feature selection, cross-calidation for hyperparameters, dimensionality reduction if working on images directly).
                                                                                                                                                                             
+**Output**
 
+On top of the classification and metrics, output **most siginificant features** when possible (hypothesis generator).
